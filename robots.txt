@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leadagencyfr-cpu.github.io/pro-local/sitemap.xml

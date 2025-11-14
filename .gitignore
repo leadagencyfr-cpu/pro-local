@@ -1,0 +1,18 @@
+# Sensitive files
+.env
+.env.local
+
+# Node / Next generated folders
+node_modules/
+.next/
+dist/
+out/
+
+# System files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs
+npm-debug.log
